@@ -15,4 +15,9 @@ After the memory usage changed from a database to a shared local memory, then I 
 * All the routing is done in "app.ts" file and the To Be Added endpoints are also in there however not yet implemented.
 
 ## Installation and Executing
-* After downloading the source code the following code 
+* After downloading the source code, following block should be executed
+     
+      npm install
+* And for starting the application the following block is already configured
+
+      npm start
