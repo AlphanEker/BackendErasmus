@@ -1,13 +1,13 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "Backend of the CS 319 Project. Erasmus helper",
+  "description": "Backend Gone Wild",
   "main": "dist/app.js",
   "scripts": {
     "start": "tsc && node dist/app.js",
     "test": "test"
   },
-  "author": "Alphan EKER, Barkın Saday",
+  "author": "Alphan EKER,
   "license": "ISC",
   "devDependencies": {
     "@types/express": "^4.17.1",
